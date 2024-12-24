@@ -1,0 +1,1 @@
+ approx = cv2.approxPolyDP(cnt, 0.025 * peri, True)
