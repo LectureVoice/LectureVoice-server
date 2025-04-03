@@ -24,7 +24,7 @@ LectureVoice는 시각 장애 학생들에게 강의 영상의 시각적 요소�
 - **Firebase Realtime Database**: 사용자 데이터 및 해설 저장
 - **Firebase Authentication**: 사용자 인증
 
-## 시스템 작동 방식
+## 시스템 작동 방식 (아래 Flowchart가 있습니다.)
 
 1. **비디오 분석** - 사용자가 업로드한 강의 영상은 PySceneDetect를 사용해 장면 전환을 감지하고, 중요 프레임을 캡처합니다.
 
